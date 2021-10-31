@@ -2,7 +2,9 @@
   "name": "jd_scripts",
   "description": "Pan_10月29日",
   "task":[
-    "",
+    "18 0,1,9,14,18 * * * https://raw.githubusercontent.com/EnochPan/Copy_Script/qingwa/gua_wealth_island_help.js, tag=财富大陆互助, enabled=true",
+    "18 0-23/2 * * * https://raw.githubusercontent.com/EnochPan/Copy_Script/qingwa/gua_wealth_island.js,tag=财富大陆, enabled=true",
+    "21 9 * * * https://raw.githubusercontent.com/EnochPan/Copy_Script/qingwa/gua_MMdou.js, tag=MM领京豆, enabled=true",
     "23 11,12 * * * https://raw.githubusercontent.com/star261/jd/main/scripts/jd_zzt.js,tag=潮玩儿制躁团,enabled=true",
     "5 0,2 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_ys.js, tag=预售福利机, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "38 5,18 * * * https://raw.githubusercontent.com/shufflewzc/faker3/main/jd_ylyn.js, tag=伊利养牛记, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
