@@ -1,6 +1,6 @@
 {
   "name": "jd_scripts",
-  "description": "Pan_10月29日",
+  "description": "Pan_11月01日",
   "task":[
     "23 0-23/3 * * * https://raw.githubusercontent.com/shufflewzc/faker3/main/jd_jxnn.js,tag=惊喜牛牛,enabled=true",
     "15 3,9 * * * https://raw.githubusercontent.com/shufflewzc/faker3/main/jd_aid_ftzy.js,tag=京东沸腾之夜助力,enabled=true",
