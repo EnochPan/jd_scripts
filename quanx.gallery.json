@@ -1,6 +1,6 @@
 {
   "name": "jd_scripts",
-  "description": "Pan 11月09日 16：00",
+  "description": "Pan 11月10日",
   "task":[
     "3 0-23/1 * * * https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_super_redrain.js, tag=整点京豆雨, enabled=true",
     "0 0,12,20 * * * https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_qjd.js,tag=抢京豆,enabled=true",
