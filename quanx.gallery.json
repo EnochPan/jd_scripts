@@ -13,7 +13,7 @@
     "10 7,18 * * * https://raw.githubusercontent.com/shufflewzc/faker3/main/jd_collectcardhelp.js,tag=集卡助力,enabled=true",
     "24 3,13 * * * https://raw.githubusercontent.com/KingRan/JDJB/main/jd_cjhz.js, tag=京东超级盒子, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png, enabled=true",
     "21 9 * * 6 https://raw.githubusercontent.com/shufflewzc/faker3/main/jd_city_exchange.js,tag=城城领现金换红包,enabled=true",
-    "18 0,1,9,14,18 * * * https://raw.githubusercontent.com/EnochPan/Copy_Script/qingwa/gua_wealth_island_help.js, tag=财富大陆互助, enabled=true",
+    "18 0,1,9,14,18 * * * https://raw.githubusercontent.com/smiek2121/scripts/master/gua_wealth_island_help.js, tag=财富大陆互助, enabled=true",
     "18 0-23/2 * * * https://raw.githubusercontent.com/EnochPan/Copy_Script/qingwa/gua_wealth_island.js,tag=财富大陆, enabled=true",
     "21 9 * * * https://raw.githubusercontent.com/EnochPan/Copy_Script/qingwa/gua_MMdou.js, tag=MM领京豆, enabled=true",
     "23 11,12 * * * https://raw.githubusercontent.com/star261/jd/main/scripts/jd_zzt.js,tag=潮玩儿制躁团,enabled=true",
