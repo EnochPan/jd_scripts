@@ -1,7 +1,9 @@
 {
   "name": "jd_scripts",
-  "description": "Pan 11月14日",
+  "description": "Pan 11月21日 15:37",
   "task":[
+    "15 3,9 * * * https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_ddworld.js,tag=东东世界, enabled=true",
+    "1 0,19,23 * * * https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_nnfls.js,tag=牛牛福利, enabled=true",
     "18 0-23/2 * * * https://raw.githubusercontent.com/smiek2121/scripts/master/gua_wealth_island.js,tag=财富大陆(呱呱版)，enabled=true",
     "3 0-23/1 * * * https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_super_redrain.js, tag=整点京豆雨, enabled=true",
     "0 0,12,20 * * * https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_qjd.js,tag=抢京豆,enabled=true",
