@@ -1,6 +1,6 @@
 {
   "name": "jd_scripts",
-  "description": "Pan 1月7日 19:00",
+  "description": "Pan 1月9日 10:00",
   "task":[
     "0 22,0-23/5 9-21 1 * https://raw.githubusercontent.com/EnochPan/Copy_Script/qingwa/gua_city.js, tag=城城领现金, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "10 7 * * * https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_bzlshdgt.js, tag=把智能生活带给TA, enabled=true",
