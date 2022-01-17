@@ -1,6 +1,6 @@
 {
   "name": "jd_scripts",
-  "description": "Pan 1月14日 18",
+  "description": "Pan 1月17日 17",
   "task":[
     "0 8 1,2 * * https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_ttysq.js, tag=天天压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "0 8 1,2 * * https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_nh_sign.js, tag=年货签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
